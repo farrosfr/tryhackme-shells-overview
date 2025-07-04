@@ -24,3 +24,11 @@ What tool is commonly used to set up a listener for a reverse shell?
 > netcat
 
 ## Task 4 Bind Shell
+What type of shell opens a specific port on the target for incoming connections from the attacker?
+> Bind Shell
+
+Listening below which port number requires root access or privileged permissions?
+> 1024
+
+## Task Shell Listeners
+
